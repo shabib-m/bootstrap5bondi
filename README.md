@@ -1,17 +1,7 @@
-# Basis Theme
-Default theme in Backdrop.
+# قالب bootstrap5bondi
 
-## Responsive Strategy
-Media queries and other responsive code should be mobile first. This means all
-media queries should be `min-width`. Breakpoints are set in `em` as it works
-better with accessibility technologies than px units do.
+قالب لنظام ادارة المحتوى https://backdropcms.org/  Backdrop cms
 
-The breakpoints are:
-* `(min-width: 25em)` - About `400px`
-* `(min-width: 34em)` - About `544px`
-* `(min-width: 48em)` - About `768px`
-* `(min-width: 62em)` - About `992px`
-* `(min-width: 75em)` - About `1200px`
+القالب مازال تحت التطوير ومجال المساهمه مفتوح للكل شاركونا https://github.com/shabib-m/bootstrap5bondi/issues
 
-## CSS documentation
-See [README.md in css directory](css/README.md).
+فرصة للتعرف على نظام باك دروب 
