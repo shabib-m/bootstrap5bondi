@@ -6,7 +6,7 @@
   --section-color: #eff7fa;
 }
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif !important;
 }
 .main-btn {
   background-color: var(--red-color) !important;
@@ -41,7 +41,7 @@ body {
   color: #012022;
 }
 .navbar .search {
-  border-left: 1px solid var(--green-color);
+  border-right: 1px solid var(--green-color);
 }
 .navbar .search svg {
   color: var(--green-color);
